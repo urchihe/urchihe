@@ -6,3 +6,6 @@
 
 <span> I am always available to work with you.</span>
 
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=urchihe&theme=react&hide_border=true&area=true&area_color=5A3E85)
+
+
